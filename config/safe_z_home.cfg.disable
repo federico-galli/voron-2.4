@@ -1,0 +1,5 @@
+[safe_z_home]
+#home_xy_position: {printer.stepper_x.position_max * 0.5 | int}, {printer.stepper_y.position_max * 0.5 | int}
+home_xy_position: 231, 341
+#z_hop: 5
+#z_hop_speed: 10.0
